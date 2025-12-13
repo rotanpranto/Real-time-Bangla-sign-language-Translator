@@ -1,4 +1,5 @@
 # Bangla-sign-language-Translator
+DOI: 10.1109/ICCIT64611.2024.11021821
  Abstract— 
  
 The human body communicates through
@@ -14,5 +15,9 @@ an accuracy of 94%.
  
 Recurrent Neural Network, LSTM, Computer Vi
 sion, Bangla font
+
+-------------------------------------------
+Please Cite this paper if you are using this code
+
 
 
