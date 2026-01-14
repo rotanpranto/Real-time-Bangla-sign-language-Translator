@@ -1,4 +1,4 @@
-# Bangla-sign-language-Translator
+# Real-time Bangla sign language Translator
 DOI: 10.1109/ICCIT64611.2024.11021821
  
 Abstract— 
