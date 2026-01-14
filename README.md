@@ -1,5 +1,4 @@
 # Real-time Bangla sign language Translator
-[docs-link]: [https://docs.github.com/](https://ieeexplore.ieee.org/document/11021821)
 DOI: 10.1109/ICCIT64611.2024.11021821
  
 Abstract— 
